@@ -1,8 +1,27 @@
 .card{
-	width:500px;
-	height:400px;
+	width:350px;
+	height:350px;
+    background-color: lightgray;
 	display:flex;
 	flex-direction:column;
 	justify-content:center;
-	
+    align-items: center;
+    padding: 90px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+h1{
+    font-weight: bolder;
+}
+.des{
+    text-align: center;
+    padding: 20px;
+}
+button{
+    height:50px;
+    width:100px;
+    border-radius: 15px;
+    background-color:red;
+    color :white;
+    font-weight: bolder;
+    padding: 10px;
 }
