@@ -1,6 +1,7 @@
 /*  your css code here. If applicable */
 .card{
+	width :600px;
 	display:flex;
-/* 	flex-direction:column; */
+	flex-direction:column;
 	
 }
